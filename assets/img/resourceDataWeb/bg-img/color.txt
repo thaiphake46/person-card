@@ -1,0 +1,8 @@
+<color name="white">#FFFFFFFF</color>
+    <color name="green">#3B973E</color>
+    <color name="blue_01">#164C77</color>
+    <color name="red">#AD382F</color>
+    <color name="blue_02">#548AA3</color>
+    <color name="blue_03">#4CA7D1</color>
+    <color name="white01">#DFDFDF</color>
+    <color name="blue_04">#163853</color>

@@ -1,0 +1,74 @@
+@media (max-width: 365px) {
+    .person-card {
+        width: 100%;
+    }
+
+    .content {
+        padding: 4px;
+    }
+
+    .person-card .nav .nav-btn {
+        font-size: 16px;
+    }
+
+    .about-section .about-text ul li {
+        font-size: 14px;
+        padding: 4px;
+    }
+
+    .contact-text .avatar-contact {
+        margin-top: 16px;
+    }
+
+    .contact-text .avatar-contact .avatar-img {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .contact-text .contact-name {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 366px) and (max-width: 600px) {
+    .person-card {
+        width: 100%;
+    }
+    
+    .content {
+        padding: 4px;
+    }
+
+    .person-card .nav .nav-btn {
+        font-size: 16px;
+    }
+
+    .about-section .about-text ul li {
+        font-size: 14px;
+        padding: 4px;
+    }
+
+    .contact-text .avatar-contact {
+        margin-top: 16px;
+    }
+
+    .contact-text .avatar-contact .avatar-img {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .contact-text .contact-name {
+        font-size: 16px;
+    }
+}
+
+@media (max-height: 445px) {
+    .wrapper {
+        height: 520px;
+    }
+
+    .person-card {
+        top: 0;
+        transform: translate(-50%,10%);
+    }
+}
